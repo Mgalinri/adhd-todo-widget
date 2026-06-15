@@ -1,0 +1,6 @@
+PyQt6==6.7.0
+PyQt6-sip==13.8.0
+python-dateutil==2.8.2
+pyobjc==10.1
+pyobjc-framework-Cocoa==10.1
+pyobjc-framework-ScriptingBridge==10.1
